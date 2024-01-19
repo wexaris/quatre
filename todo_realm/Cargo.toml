@@ -1,0 +1,12 @@
+[package]
+name = "todo_realm"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+# Core library
+relm4 = "0.6.2"
+# Optional: reusable components
+relm4-components = "0.6.2"
